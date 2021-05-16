@@ -11,7 +11,7 @@ Cette commande va construire toutes les étapes réaliser dans le script.
 
 Comme on peut le voir il y a 29 étapes pour la construction.
 
-Une fois la construction finit il ne reste plus qu'à executer à l'aide de la commande "docker run -t "ct-ng"
+Une fois la construction finit il ne reste plus qu'à executer à l'aide de la commande "docker run -t ct-ng
 
 ![image](https://user-images.githubusercontent.com/72381443/118411539-6244f200-b695-11eb-9d83-426ef25ad3f0.png)
 
